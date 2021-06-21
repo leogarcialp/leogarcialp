@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Leonardo.
-![](https://i.ibb.co/9257sR1/banner-github.png)
+![](https://i.ibb.co/fCYdQqk/Azul-Amarillo-Tecnolog-a-Linked-In-Banner.png)
 
 Due to the 2020 pandemic, I could no longer continue in collegue studying Computer Science, so I had to continue my learning  as a programmer with free resources on the internet.
 
