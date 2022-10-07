@@ -5,7 +5,7 @@ Due to the 2020 pandemic, I could no longer continue in collegue studying Comput
 
  **I'm currently building projects to show in my portfolio.** My professional goal is to be a high level Full Stack MERN Developer  and then jump to mobile apps development with React Native.
 
-Skills: HTML5 / CSS3 / Bootstrap / JavaScript / Git 
+Skills: HTML5 / CSS3 / Bootstrap / Tailwind / JavaScript / Git 
 
 - 🌱 I’m currently learning JavaScript 
 
