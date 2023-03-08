@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/W2Gd4Zh/banner-github2023.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/cDVdWJQ/banner-gitbun2023.png" align="center" style="width: 100%" />
 </div> 
 
 # 💫 About Me:
