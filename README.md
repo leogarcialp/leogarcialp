@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.ibb.co/W2Gd4Zh/banner-github2023.png" align="center" style="width: 100%" />
+</div> 
+
 # 💫 About Me:
 🔭  I’m currently working on My Personal Portfolio<br><br>🌱 I’m currently learning HTML5, CSS3, JavaScript.<br><br>🎯 My goal is to be a developer using the MERN stack.<br><br>👨‍💻 I'm showcasing my projects here [leogarcialp.com](leogarcialp.com)<br><br>✅ My skills: HTML5/CSS3/JavaScript/Bootstrap/Tailwind/Figma/Node JS/MySQL/Postgres
 
