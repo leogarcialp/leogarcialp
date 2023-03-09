@@ -3,7 +3,7 @@
 </div> 
 
 # 💫 About Me:
-🔭  I’m currently working as a Self-Employed Computer Technician<br><br>🌱 I’m currently learning HTML5, CSS3, JavaScript.<br><br>🎯 My goal is to be a developer using the MERN stack.<br><br>👨‍💻 I'm showcasing my projects here [leogarcialp.com](leogarcialp.com)<br><br>✅ My skills: HTML5/CSS3/JavaScript/Bootstrap/Tailwind/Figma/Node JS/MySQL/Postgres
+🔭  I’m currently working as a Self-Employed Computer Technician<br><br>🌱 I’m currently learning HTML5, CSS3, JavaScript.<br><br>🎯 My goal is to be a developer using the MERN stack.<br><br>👨‍💻 I'm showcasing my projects here [My portfolio](leogarcialp.com)<br><br>✅ My skills: HTML5/CSS3/JavaScript/Bootstrap/Tailwind/Figma/Node JS/MySQL/Postgres
 
 
 ## 🌐 Socials:
